@@ -18,6 +18,7 @@
 - Java
 - SQL
 - HTML5, CSS3
+- JavaScript
 - Spring Frameworks
 - MySQL
 - Postman
