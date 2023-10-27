@@ -1,6 +1,6 @@
-/*<div align="center">
+/--<div align="center">
   <img src="https://drive.google.com/file/d/1mkjRSHGUE_M5F2xbjVPGboZNdXq_EGwt/view?usp=drive_link" alt="vaibhavbhabad" width="100%">
-</div>*/
+</div>--/
 
 <h1 align="center">Hello, I'm Vaibhav</h1>
 
