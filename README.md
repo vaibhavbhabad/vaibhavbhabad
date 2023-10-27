@@ -1,7 +1,3 @@
-/--<div align="center">
-  <img src="https://drive.google.com/file/d/1mkjRSHGUE_M5F2xbjVPGboZNdXq_EGwt/view?usp=drive_link" alt="vaibhavbhabad" width="100%">
-</div>--/
-
 <h1 align="center">Hello, I'm Vaibhav</h1>
 
 <p align="center">A passionate Full-Stack developer with a love for creating web applications.</p>
