@@ -19,7 +19,9 @@
 - SQL
 - HTML5, CSS3
 - JavaScript
-- Spring Frameworks
+- Hibernate
+- Spring
+- Spring-Boot
 - MySQL
 - Postman
 
