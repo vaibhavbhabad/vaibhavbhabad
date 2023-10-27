@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
   <img src="https://drive.google.com/file/d/1mkjRSHGUE_M5F2xbjVPGboZNdXq_EGwt/view?usp=drive_link" alt="vaibhavbhabad" width="100%">
 </div>
@@ -45,8 +43,8 @@ I'm constantly learning and exploring new technologies and frameworks, so stay t
 
 ### 📫 Get in Touch
 
-- LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/vaibhav-bhabad)](https://www.linkedin.com/in/vaibhav-bhabad/)
-- Twitter: [@YourTwitter](https://twitter.com/VaibhavBhabad2)
+- LinkedIn: [@vaibhav-bhabad](https://www.linkedin.com/in/vaibhav-bhabad/)
+- Twitter: [@VaibhavBhabad2](https://twitter.com/VaibhavBhabad2)
 
 Feel free to connect with me, and let's collaborate on interesting projects!
 
