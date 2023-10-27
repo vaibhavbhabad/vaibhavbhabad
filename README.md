@@ -20,6 +20,7 @@
 - HTML5, CSS3
 - Spring Frameworks
 - MySQL
+- Postman
 
 ### 🔨 Projects
 
@@ -30,8 +31,13 @@ Here are some of my notable projects:
    - Tech Stack: HTML, CSS, JavaScript.
 
 2. **[UserInfo](https://github.com/vaibhavbhabad/userInfo/blob/main/userInfo.html)**
-   - Description: This is a simple web-based User-Info Management System that allows users to input and manage user data, which is then displayed in a table format..
+   - Description: This is a simple web-based User-Info Management System that allows users to input and manage user data, which is then displayed in a table format.
    - Tech Stack: HTML, CSS, JavaScript.
+  
+3. **[Company Database API](https://github.com/vaibhavbhabad/companyManagement)**
+   - Description: This project is a RESTful API developed in Java using Spring Boot for managing a company's database. It provides endpoints for performing CRUD (Create, Read, Update, Delete) operations 
+ on company records stored in a MySQL database. The API is designed to be used by clients to interact with the company database.
+   - Tech Stack: Java, Spring-Boot, MySQL, Postman.
 
 ### 🌱 What I'm Learning
 
