@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **exciting Java projects**.
 - 🌱 I’m currently learning **React, JavaScript**.
-- 💬 Ask me about **Java, J2EE, Spring, Spring-Boot, Spring MVC, Spring Core, SQL, HTML, CSS, or anything tech-related**.
+- 💬 Ask me about **Java, J2EE, Hibernate, Spring, Spring-Boot, Spring MVC, Spring Core, SQL, HTML, CSS.**.
 
 ### 💻 Tech Stack
 
